@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato - Pousada Paraíso</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <script src="../javascript/script.js" defer></script>
+    <title>Iniciativa CEN</title>
+
+</head>
+
+<body>
+    <header>
+        <h1>GPS DE PRENVENÇÃO DE DESASTRES - GRUPO CEN</h1>
+        <nav>
+            <ul class="nav-menu">
+                <li><a href="../index.html">Início</a></li>
+                <li><a href="integrantes.html">Integrantes</a></li>
+                <li><a href="servicos.html">Serviços</a></li>
+                <li><a href="alerta.html">Alerta</a></li>
+                <li><a href="FAQ.html">FAQ</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <li><a href="chat.html" class="active">Chat</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Tem mais alguma dúvida? Entre em contato conosco!</h2>
+
+        <form action="cadastro" method="get" class="formulario-contato">
+            <label for="nome">Nome:</label>
+            <input type="ctext" id="nome" name="nome" required>
+
+            <label for="email">E-mail:</label>
+            <input type="cemail" id="email" name="email" required>
+
+            <label for="telefone">Telefone:</label>
+            <input type="ctel" id="telefone" name="telefone">
+
+            <label for="mensagem">Mensagem:</label>
+            <textarea id="cmensagem" name="mensagem" rows="5" required></textarea>
+
+            <button type="submit" value="cadastro">Enviar</button>
+        </form>
+    </main>
+
+    <div id="chatbot-icon" title="Chatbot">
+        <img src="../images/jose.png" alt="chatbot-icon">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+            <path d="M4 4h16v12H5.17L4 17.17V4z" fill="currentColor" />
+        </svg>
+    </div>
+
+
+    <footer>
+        <p>2025 Grupo CEN</p>
+    </footer>
+</body>
+
+</html>
