@@ -1,2 +1,2 @@
-# GlobalSolution
-Repositório para armazenamento de Front-End 
+# Global Solution
+Repositório para armazenamento de Front-End
