@@ -15,7 +15,8 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #2f459f;
+  background: #00aaff;
+  background: linear-gradient(222deg,rgba(0, 170, 255, 1) 0%, rgba(253, 29, 29, 1) 70%, rgba(252, 176, 69, 1) 100%);
     color: white;
     padding: 25px;
     text-align: center;
@@ -65,7 +66,7 @@ h2 {
 }
 
 .integrantes {
-    background-color: #2f459f;
+    background-color: #00aaff;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -103,7 +104,7 @@ h2 {
 
 /* Serviços */
 .servicos-container {
-    background-color: #5166a1;
+    background-color: #00aaff;
     display: flex;
     flex-wrap: wrap;
     gap: 20px;
@@ -128,7 +129,7 @@ h2 {
 
 
 .formulario-contato {
-    background: #5166a1;
+    background: #00aaff;
     padding: 40px;
     width: 100%;
     max-width: 1000px; 
@@ -316,7 +317,7 @@ h2 {
 }
 
 footer {
-  background-color: #5166a1;
+  background-color: #a51919;
   color: white;
   text-align: center;
   padding: 15px 0;
