@@ -211,42 +211,20 @@ h2 {
     border-radius: 5px;
 }
 
-/* Serviços Disponibilizados */
-.services {
+/* solução */
+.solucao {
   background: #fff;
   padding: 2rem 0;
 }
-.services h1 {
+.solucao h1 {
   text-align: center;
   margin-bottom: 1.5rem;
 }
-.services-list {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-  gap: 1.5rem;
-}
-.service {
-  background: #fff;
-  padding: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  text-align: center;
-}
-.service img {
-  width: 100px;
-  height: 100px;
-  object-fit: contain;
-  margin-bottom: 0.75rem;
-}
-.service h2 {
-  margin-bottom: 0.5rem;
-  font-size: 1.1rem;
-}
-.service p {
-  font-size: 0.95rem;
+
+.solucao p {
+  font-size: 18px;
   color: #555;
 }
-
 
 .faq {
   background: #fff;
