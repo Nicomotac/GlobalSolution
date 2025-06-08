@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const bot = document.getElementById('chatbot-icon');
   if (bot) {
     bot.addEventListener('click', () => {
-      alert('Clique na opção "Chat" para ir até o Dr. José');
+      alert('Clique na opção "Chat" para ir até o ChatBot');
     });
   }
 });
