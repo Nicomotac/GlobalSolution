@@ -21,6 +21,6 @@ Caio Kenzo Tayra - RM 562979
 Enzo Vieira Bernardini - RM 563000 
 Nicolas Mota - RM 561857
 
-========= Link do repositório do Github ==========
+========== Link do repositório do Github ===========
 
 https://github.com/Nicomotac/GlobalSolution
